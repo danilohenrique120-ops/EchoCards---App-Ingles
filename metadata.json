@@ -1,5 +1,0 @@
-{
-  "name": "EchoCards - AI English SRS",
-  "description": "A modern spaced-repetition learning app that uses Gemini AI to generate custom English flashcards and Firestore for persistent storage.",
-  "requestFramePermissions": []
-}
